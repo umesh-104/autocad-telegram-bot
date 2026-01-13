@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "LINE Command",
+    "content": "Command: LINE\nShortcut: L\n\nUsed to draw straight line segments in drawings.\n\nSteps:\n1. Type L and press Enter\n2. Specify the first point\n3. Specify the next point\n4. Press Enter to finish"
+  },
+  {
+    "id": 2,
+    "title": "CIRCLE Command",
+    "content": "Command: CIRCLE\nShortcut: C\n\nUsed to draw circles using different methods.\n\nSteps:\n1. Type C and press Enter\n2. Specify center point\n3. Enter radius or diameter\n4. Press Enter to complete"
+  },
+  {
+    "id": 3,
+    "title": "OFFSET Command",
+    "content": "Command: OFFSET\nShortcut: O\n\nUsed to create parallel copies of objects at a fixed distance.\n\nSteps:\n1. Type O and press Enter\n2. Enter offset distance\n3. Select the object\n4. Click the side to offset"
+  },
+  {
+    "id": 4,
+    "title": "TRIM Command",
+    "content": "Command: TRIM\nShortcut: TR\n\nUsed to remove unwanted portions of objects.\n\nSteps:\n1. Type TR and press Enter\n2. Select cutting edges\n3. Press Enter\n4. Click parts to remove"
+  },
+  {
+    "id": 5,
+    "title": "EXTEND Command",
+    "content": "Command: EXTEND\nShortcut: EX\n\nUsed to extend objects to meet boundary edges.\n\nSteps:\n1. Type EX and press Enter\n2. Select boundary edges\n3. Press Enter\n4. Select objects to extend"
+  },
+  {
+    "id": 6,
+    "title": "MOVE Command",
+    "content": "Command: MOVE\nShortcut: M\n\nUsed to move objects from one place to another.\n\nSteps:\n1. Type M and press Enter\n2. Select objects\n3. Specify base point\n4. Specify destination point"
+  },
+  {
+    "id": 7,
+    "title": "COPY Command",
+    "content": "Command: COPY\nShortcut: CO\n\nUsed to create duplicate objects.\n\nSteps:\n1. Type CO and press Enter\n2. Select objects\n3. Specify base point\n4. Specify second point"
+  },
+  {
+    "id": 8,
+    "title": "ROTATE Command",
+    "content": "Command: ROTATE\nShortcut: RO\n\nUsed to rotate objects around a base point.\n\nSteps:\n1. Type RO and press Enter\n2. Select objects\n3. Specify base point\n4. Enter rotation angle"
+  },
+  {
+    "id": 9,
+    "title": "SCALE Command",
+    "content": "Command: SCALE\nShortcut: SC\n\nUsed to resize objects proportionally.\n\nSteps:\n1. Type SC and press Enter\n2. Select objects\n3. Specify base point\n4. Enter scale factor"
+  },
+  {
+    "id": 10,
+    "title": "MIRROR Command",
+    "content": "Command: MIRROR\nShortcut: MI\n\nUsed to create mirrored copies of objects.\n\nSteps:\n1. Type MI and press Enter\n2. Select objects\n3. Specify first mirror line point\n4. Specify second mirror line point"
+  },
+  {
+    "id": 11,
+    "title": "FILLET Command",
+    "content": "Command: FILLET\nShortcut: F\n\nUsed to round or connect corners between objects.\n\nSteps:\n1. Type F and press Enter\n2. Set radius if needed\n3. Select first object\n4. Select second object"
+  },
+  {
+    "id": 12,
+    "title": "CHAMFER Command",
+    "content": "Command: CHAMFER\nShortcut: CHA\n\nUsed to create beveled edges between objects.\n\nSteps:\n1. Type CHA and press Enter\n2. Set chamfer distances\n3. Select first object\n4. Select second object"
+  },
+  {
+    "id": 13,
+    "title": "ARRAY Command",
+    "content": "Command: ARRAY\nShortcut: AR\n\nUsed to create multiple copies in patterns.\n\nSteps:\n1. Type AR and press Enter\n2. Select object\n3. Choose array type\n4. Set rows and columns"
+  },
+  {
+    "id": 14,
+    "title": "HATCH Command",
+    "content": "Command: HATCH\nShortcut: H\n\nUsed to fill enclosed areas with patterns.\n\nSteps:\n1. Type H and press Enter\n2. Select hatch pattern\n3. Click inside boundary\n4. Press Enter"
+  },
+  {
+    "id": 15,
+    "title": "LAYER Command",
+    "content": "Command: LAYER\nShortcut: LA\n\nUsed to manage layers in a drawing.\n\nSteps:\n1. Type LA and press Enter\n2. Create or select layer\n3. Set color or line type\n4. Make layer current"
+  }
+]
