@@ -26,3 +26,11 @@ jobs:
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
         run: python main.py
+      - name: Commit index update
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add last_index.txt
+          git commit -m "Update AutoCAD tip index" || echo "No changes"
+          git push
+
