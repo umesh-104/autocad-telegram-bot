@@ -2,7 +2,7 @@ name: Daily AutoCAD Tip
 
 on:
   schedule:
-    - cron: '0 4 * * *'   # 9:30 AM IST
+    - cron: '*/5 * * * *'   # 9:30 AM IST
   workflow_dispatch:
 
 jobs:
