@@ -1,0 +1,857 @@
+[
+  {
+    "id": 1,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Use object snaps to start and end lines precisely.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 2,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Turn on ORTHO mode for perfectly horizontal or vertical lines.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 3,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Use POLAR tracking for angled lines.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 4,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Use object snaps to start and end lines precisely.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 5,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Turn on ORTHO mode for perfectly horizontal or vertical lines.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 6,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Use POLAR tracking for angled lines.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 7,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Use object snaps to start and end lines precisely.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 8,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Turn on ORTHO mode for perfectly horizontal or vertical lines.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 9,
+    "command": "LINE",
+    "message": "Use of LINE:\n\nDrawing straight line segments accurately.\n\nPractical Tip:\n- Use POLAR tracking for angled lines.\n\nSteps:\n1. Type LINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 10,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Use width options to create thick lines.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 11,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Convert existing lines using PEDIT.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 12,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Useful for boundaries and paths.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 13,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Use width options to create thick lines.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 14,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Convert existing lines using PEDIT.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 15,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Useful for boundaries and paths.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 16,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Use width options to create thick lines.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 17,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Convert existing lines using PEDIT.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 18,
+    "command": "POLYLINE",
+    "message": "Use of POLYLINE:\n\nCreating connected line segments as a single object.\n\nPractical Tip:\n- Useful for boundaries and paths.\n\nSteps:\n1. Type POLYLINE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 19,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Use center-radius for simple circles.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 20,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Use 2-point or 3-point methods for accuracy.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 21,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Helpful for mechanical and architectural drawings.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 22,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Use center-radius for simple circles.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 23,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Use 2-point or 3-point methods for accuracy.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 24,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Helpful for mechanical and architectural drawings.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 25,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Use center-radius for simple circles.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 26,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Use 2-point or 3-point methods for accuracy.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 27,
+    "command": "CIRCLE",
+    "message": "Use of CIRCLE:\n\nDrawing circles using multiple methods.\n\nPractical Tip:\n- Helpful for mechanical and architectural drawings.\n\nSteps:\n1. Type CIRCLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 28,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Choose start-center-end for control.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 29,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Use tangential arcs for smooth connections.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 30,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Common in roads and piping layouts.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 31,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Choose start-center-end for control.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 32,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Use tangential arcs for smooth connections.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 33,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Common in roads and piping layouts.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 34,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Choose start-center-end for control.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 35,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Use tangential arcs for smooth connections.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 36,
+    "command": "ARC",
+    "message": "Use of ARC:\n\nDrawing curved segments between points.\n\nPractical Tip:\n- Common in roads and piping layouts.\n\nSteps:\n1. Type ARC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 37,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Ideal for walls and road edges.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 38,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Use multiple offsets in one command.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 39,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Avoid excessive offsets to reduce clutter.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 40,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Ideal for walls and road edges.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 41,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Use multiple offsets in one command.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 42,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Avoid excessive offsets to reduce clutter.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 43,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Ideal for walls and road edges.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 44,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Use multiple offsets in one command.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 45,
+    "command": "OFFSET",
+    "message": "Use of OFFSET:\n\nCreating parallel copies of objects.\n\nPractical Tip:\n- Avoid excessive offsets to reduce clutter.\n\nSteps:\n1. Type OFFSET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 46,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Use Enter to select all cutting edges.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 47,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Works well after intersections.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 48,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Clean drawings faster with window selection.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 49,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Use Enter to select all cutting edges.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 50,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Works well after intersections.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 51,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Clean drawings faster with window selection.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 52,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Use Enter to select all cutting edges.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 53,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Works well after intersections.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 54,
+    "command": "TRIM",
+    "message": "Use of TRIM:\n\nRemoving unwanted object portions.\n\nPractical Tip:\n- Clean drawings faster with window selection.\n\nSteps:\n1. Type TRIM in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 55,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Select correct boundary edges first.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 56,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Works opposite to TRIM.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 57,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Useful for alignment cleanup.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 58,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Select correct boundary edges first.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 59,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Works opposite to TRIM.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 60,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Useful for alignment cleanup.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 61,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Select correct boundary edges first.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 62,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Works opposite to TRIM.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 63,
+    "command": "EXTEND",
+    "message": "Use of EXTEND:\n\nExtending objects to meet boundaries.\n\nPractical Tip:\n- Useful for alignment cleanup.\n\nSteps:\n1. Type EXTEND in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 64,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Use base point snapping.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 65,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Combine with COPY for efficiency.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 66,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Avoid manual dragging for precision.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 67,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Use base point snapping.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 68,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Combine with COPY for efficiency.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 69,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Avoid manual dragging for precision.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 70,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Use base point snapping.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 71,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Combine with COPY for efficiency.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 72,
+    "command": "MOVE",
+    "message": "Use of MOVE:\n\nRepositioning objects accurately.\n\nPractical Tip:\n- Avoid manual dragging for precision.\n\nSteps:\n1. Type MOVE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 73,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Use multiple copy option.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 74,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Combine with array for patterns.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 75,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Helps speed up repetitive tasks.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 76,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Use multiple copy option.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 77,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Combine with array for patterns.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 78,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Helps speed up repetitive tasks.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 79,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Use multiple copy option.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 80,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Combine with array for patterns.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 81,
+    "command": "COPY",
+    "message": "Use of COPY:\n\nDuplicating objects efficiently.\n\nPractical Tip:\n- Helps speed up repetitive tasks.\n\nSteps:\n1. Type COPY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 82,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Use reference option for exact angles.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 83,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Snap base point carefully.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 84,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Useful in mechanical assemblies.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 85,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Use reference option for exact angles.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 86,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Snap base point carefully.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 87,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Useful in mechanical assemblies.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 88,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Use reference option for exact angles.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 89,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Snap base point carefully.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 90,
+    "command": "ROTATE",
+    "message": "Use of ROTATE:\n\nRotating objects around a base point.\n\nPractical Tip:\n- Useful in mechanical assemblies.\n\nSteps:\n1. Type ROTATE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 91,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Use reference scale for accuracy.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 92,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Avoid scaling dimensions directly.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 93,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Common when importing drawings.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 94,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Use reference scale for accuracy.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 95,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Avoid scaling dimensions directly.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 96,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Common when importing drawings.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 97,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Use reference scale for accuracy.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 98,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Avoid scaling dimensions directly.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 99,
+    "command": "SCALE",
+    "message": "Use of SCALE:\n\nResizing objects proportionally.\n\nPractical Tip:\n- Common when importing drawings.\n\nSteps:\n1. Type SCALE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 100,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Decide whether to delete source object.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 101,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Useful for symmetric layouts.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 102,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Reduces manual redrawing.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 103,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Decide whether to delete source object.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 104,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Useful for symmetric layouts.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 105,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Reduces manual redrawing.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 106,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Decide whether to delete source object.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 107,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Useful for symmetric layouts.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 108,
+    "command": "MIRROR",
+    "message": "Use of MIRROR:\n\nCreating symmetrical copies.\n\nPractical Tip:\n- Reduces manual redrawing.\n\nSteps:\n1. Type MIRROR in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 109,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Set radius before applying.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 110,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Use zero radius to join lines.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 111,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Helpful in mechanical detailing.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 112,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Set radius before applying.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 113,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Use zero radius to join lines.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 114,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Helpful in mechanical detailing.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 115,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Set radius before applying.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 116,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Use zero radius to join lines.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 117,
+    "command": "FILLET",
+    "message": "Use of FILLET:\n\nRounding corners between objects.\n\nPractical Tip:\n- Helpful in mechanical detailing.\n\nSteps:\n1. Type FILLET in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 118,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Set chamfer distances correctly.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 119,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Used instead of fillet in sharp designs.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 120,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Common in fabrication drawings.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 121,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Set chamfer distances correctly.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 122,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Used instead of fillet in sharp designs.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 123,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Common in fabrication drawings.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 124,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Set chamfer distances correctly.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 125,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Used instead of fillet in sharp designs.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 126,
+    "command": "CHAMFER",
+    "message": "Use of CHAMFER:\n\nCreating beveled corners.\n\nPractical Tip:\n- Common in fabrication drawings.\n\nSteps:\n1. Type CHAMFER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 127,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Use rectangular, polar, or path array.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 128,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Edit array parameters dynamically.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 129,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Efficient for repetitive elements.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 130,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Use rectangular, polar, or path array.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 131,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Edit array parameters dynamically.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 132,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Efficient for repetitive elements.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 133,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Use rectangular, polar, or path array.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 134,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Edit array parameters dynamically.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 135,
+    "command": "ARRAY",
+    "message": "Use of ARRAY:\n\nCreating patterned copies.\n\nPractical Tip:\n- Efficient for repetitive elements.\n\nSteps:\n1. Type ARRAY in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 136,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Ensure boundaries are closed.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 137,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Adjust scale for readability.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 138,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Use layers for hatch control.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 139,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Ensure boundaries are closed.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 140,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Adjust scale for readability.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 141,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Use layers for hatch control.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 142,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Ensure boundaries are closed.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 143,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Adjust scale for readability.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 144,
+    "command": "HATCH",
+    "message": "Use of HATCH:\n\nFilling areas with patterns.\n\nPractical Tip:\n- Use layers for hatch control.\n\nSteps:\n1. Type HATCH in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 145,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Use meaningful layer names.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 146,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Freeze layers for performance.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 147,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Control visibility and plotting.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 148,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Use meaningful layer names.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 149,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Freeze layers for performance.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 150,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Control visibility and plotting.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 151,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Use meaningful layer names.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 152,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Freeze layers for performance.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 153,
+    "command": "LAYER",
+    "message": "Use of LAYER:\n\nOrganizing drawing objects.\n\nPractical Tip:\n- Control visibility and plotting.\n\nSteps:\n1. Type LAYER in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 154,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Create separate styles per scale.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 155,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Avoid modifying default styles.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 156,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Ensures consistency.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 157,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Create separate styles per scale.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 158,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Avoid modifying default styles.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 159,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Ensures consistency.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 160,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Create separate styles per scale.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 161,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Avoid modifying default styles.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 162,
+    "command": "DIMSTYLE",
+    "message": "Use of DIMSTYLE:\n\nManaging dimension styles.\n\nPractical Tip:\n- Ensures consistency.\n\nSteps:\n1. Type DIMSTYLE in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 163,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Useful when drawing is not at 1:1.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 164,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Adjusts dimension text and arrows.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 165,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Helps readability without changing geometry.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 166,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Useful when drawing is not at 1:1.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 167,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Adjusts dimension text and arrows.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 168,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Helps readability without changing geometry.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 169,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Useful when drawing is not at 1:1.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 170,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Adjusts dimension text and arrows.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  },
+  {
+    "id": 171,
+    "command": "DIMLFAC",
+    "message": "Use of DIMLFAC:\n\nControlling dimension scale factor.\n\nPractical Tip:\n- Helps readability without changing geometry.\n\nSteps:\n1. Type DIMLFAC in the command line and press Enter.\n2. Follow the command prompts carefully.\n3. Use object snaps or references where required.\n4. Review the result and adjust if needed."
+  }
+]
