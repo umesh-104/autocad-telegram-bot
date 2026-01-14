@@ -1,16 +1,21 @@
 import json
 import random
 import requests
+import os
+import sys
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHANNEL_ID = "YOUR_CHANNEL_ID"
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+CHANNEL_ID = os.getenv("CHANNEL_ID")
+
+print("DEBUG: BOT_TOKEN exists:", bool(BOT_TOKEN))
+print("DEBUG: CHANNEL_ID:", CHANNEL_ID)
 
 def load_tips():
+    print("DEBUG: Loading JSON file")
     with open("autocad_tips.json", "r", encoding="utf-8") as f:
-        return json.load(f)
-
-def get_random_tip(tips):
-    return random.choice(tips)
+        tips = json.load(f)
+    print("DEBUG: Tips loaded:", len(tips))
+    return tips
 
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
@@ -18,10 +23,12 @@ def send_to_telegram(text):
         "chat_id": CHANNEL_ID,
         "text": text
     }
-    requests.post(url, json=payload)
+    response = requests.post(url, json=payload)
+    print("DEBUG: Telegram status:", response.status_code)
+    print("DEBUG: Telegram response:", response.text)
 
 tips = load_tips()
-tip = get_random_tip(tips)
+tip = random.choice(tips)
 
 message = f"{tip['title']}\n\n{tip['content']}"
 send_to_telegram(message)
