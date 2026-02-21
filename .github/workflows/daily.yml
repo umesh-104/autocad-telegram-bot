@@ -2,7 +2,7 @@ name: AutoCAD Tip Bot
 
 on:
   schedule:
-    - cron: '*/45 * * * *'
+    - cron: '30 2 * * *'
   workflow_dispatch:
 
 jobs:
